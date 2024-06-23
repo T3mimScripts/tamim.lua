@@ -1,0 +1,6 @@
+while do true
+    wait(2)
+
+    print("hello world")
+
+end
